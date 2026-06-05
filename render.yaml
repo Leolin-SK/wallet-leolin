@@ -15,7 +15,7 @@ services:
       - key: DJANGO_SETTINGS_MODULE
         value: config.settings
       - key: CORS_ALLOWED_ORIGINS
-        value: https://wallet-leolin-jvzw.vercel.app/
+        value: https://wallet-leolin-jvzw.vercel.app
     plan: free
 
 databases:
